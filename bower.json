@@ -1,7 +1,9 @@
 {
 	"name": "angular-dist",
-	"version": "0.13.5",
-	"main": ["angular.js", "angular.min.js"],
+	"main": [
+		"angular.js",
+		"angular.min.js"
+		],
 	"ignore": [
 		"package.json"
 	]
